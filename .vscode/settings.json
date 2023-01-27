@@ -1,4 +1,7 @@
 {
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 79,
+    "editor.wrappingIndent": "indent"
 }
